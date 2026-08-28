@@ -1,3 +1,6 @@
+Juan David Bedoya Cabrera
+Sebastian ROjas Herrera
+
 # Dimensional Data Warehouse — Omnichannel Retail
 
 This project implements a dimensional Data Warehouse to consolidate six months of sales transactions from a retail company that operates two physical stores and one national online store. The goal is to organize the data into a Star Schema model that supports recurring analytical queries and future business dashboards.
