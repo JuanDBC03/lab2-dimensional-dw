@@ -1,5 +1,5 @@
 Juan David Bedoya Cabrera
-Sebastian ROjas Herrera
+Sebastian Rojas Herrera
 
 # Dimensional Data Warehouse — Omnichannel Retail
 
